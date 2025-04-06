@@ -13,4 +13,5 @@ This repository includes links, code, scripts, and data to generate the figures 
 ### Requirements
 
 ### Support
-The creation of these materials was supported in part by the NSF CTMC CAREER Award 2046744 and the NSF under Grant No. DMR-2041995.
+The creation of these materials was supported in part by the NSF CTMC CAREER Award 2046744 and the NSF under Grant No. DMR-2041995.  
+A.D. acknowledges support from the U.S. Department of Energy, Office of Science, Office of Basic Energy Sciences, under Award No. DE-SC0022311.
